@@ -1,0 +1,7 @@
+# IDE (Eclipse / STS)
+.metadata/
+
+# OS
+.DS_Store
+
+.vscode/

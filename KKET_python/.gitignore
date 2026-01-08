@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+bin/
+lib/
+include/
+pyvenv.cfg
+
+# Env
+.env
+
+# Logs
+*.log
+
+# OS
+.DS_Store
